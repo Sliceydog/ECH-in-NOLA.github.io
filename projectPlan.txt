@@ -1,0 +1,8 @@
+Possible datasets: 
+
+1. Training groups to survey how we play operates within different income levels
+2.
+3.
+
+
+Collaboration Plan: Rena and Eddy will utilize this repository to simultaneously edit the project. We plan on connecting over Zoom as needed and keeping constant communication over instant message. When convinient, we will export notebooks to Google Colabs to support simultaneous editing.
