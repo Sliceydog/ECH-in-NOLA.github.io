@@ -14,8 +14,8 @@ Possible datasets:
 
 Goal: We are inspired by The We Play center's mission: "to offer a safe place to play while engaging in activities that promote brain development." 
 Melanie Richardson expressed a need for statistical evidence of We Play's importance. 
-Although we would like to use the center's existing data, it has ISSUES XYZ. 
-Instead we would like to validate the center's work by showing illustrating need for their services
+Although we would like to use the center's existing data, it doesn't have consistent ids per unit of observation and is not tidy. 
+Instead we would like to validate the center's work by showing illustrating need for their services.
 
 Children were not required to attend kindergarten until June of 2021. 
 Studies show that children who cannot read at grade level by the third grade will lag behind for the rest of their education.^2
