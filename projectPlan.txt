@@ -5,7 +5,7 @@ Possible datasets:
    "STATE OF THE YOUNG CHILD IN NEW ORLEANS: EDI NEIGHBORHOOD PROFILES"
     This Dataset measures five areas of early childhood development to classify Kindergarten readiness. These include "Physical health and wellbeing", "Social competence", "Emotional Maturity", "Language and cognitive skills", and "Communication skills and general knowledge".
     **
-3. ?? webscrape for early childhood centers ??
+3. webscrape for early childhood centers or use lousianabelives.com school search tool to find all childcare centers in a relevant area
 
 
 Goal: We are inspired by The We Play center's mission: "to offer a safe place to play while engaging in activities that promote brain development." 
