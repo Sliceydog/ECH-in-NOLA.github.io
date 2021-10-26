@@ -10,8 +10,8 @@ Possible datasets:
 
 Goal: We are inspired by The We Play center's mission: "to offer a safe place to play while engaging in activities that promote brain development." 
 Melanie Richardson expressed a need for statistical evidence of We Play's importance. 
-Although we would like to use the center's existing data, it has ISSUES XYZ. 
-Instead we would like to validate the center's work by showing ????
+Although we would like to use the center's existing data, it does not have enough volume for us to feel that our analysis would provide real insight. 
+Instead we would like to validate the center's work by showing how it fills in an educational gap for families that cannot afford for profit child care.
 
 
 Collaboration Plan: Rena and Eddy will utilize this repository to simultaneously edit the project. 
