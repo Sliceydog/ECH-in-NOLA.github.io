@@ -16,6 +16,8 @@ Goal: We are inspired by The We Play center's mission: "to offer a safe place to
 Melanie Richardson expressed a need for statistical evidence of We Play's importance. 
 Although we would like to use the center's existing data, it doesn't have consistent ids per unit of observation and is not tidy. 
 Instead we would like to validate the center's work by showing illustrating need for their services.
+We have found a dataset reporting reading test results, but it is in PDF form so we will need to either transfer it to a csv
+manually or parse the PDF.
 
 Children were not required to attend kindergarten until June of 2021. 
 Studies show that children who cannot read at grade level by the third grade will lag behind for the rest of their education.^2
