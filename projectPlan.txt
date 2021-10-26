@@ -1,27 +1,35 @@
 Possible datasets: 
 
 1. We Play Data 
-2. https://opennola.org/state-of-the-young-child-in-new-orleans-edi-neighborhood-profiles/ 
+2. https://www.louisianabelieves.com/docs/default-source/test-results/fall-2020-dibels-reading-report.pdf?sfvrsn=28a96618_8
+   "Dibels Reading Report"
+3. https://www.louisianaschools.com/
+   Early childhood education centers in New Orleans, by age group
+4. 2018-2020 PK-5 enrollment data
+5. https://opennola.org/state-of-the-young-child-in-new-orleans-edi-neighborhood-profiles/ 
    "STATE OF THE YOUNG CHILD IN NEW ORLEANS: EDI NEIGHBORHOOD PROFILES"
     This Dataset measures five areas of early childhood development to classify Kindergarten readiness. These include "Physical health and wellbeing", "Social competence", "Emotional Maturity", "Language and cognitive skills", and "Communication skills and general knowledge".
     ^1
-3. https://www.louisianabelieves.com/docs/default-source/test-results/fall-2020-dibels-reading-report.pdf?sfvrsn=28a96618_8
-   "Dibels Reading Report"
-4. https://www.louisianaschools.com/
-   Early childhood education centers in New Orleans, by age group
-5. 2018-2020 PK-5 enrollment data
 
 
-Goal: We are inspired by The We Play center's mission: "to offer a safe place to play while engaging in activities that promote brain development." 
-Melanie Richardson expressed a need for statistical evidence of We Play's importance. 
-Although we would like to use the center's existing data, it doesn't have consistent ids per unit of observation and is not tidy. 
+We are inspired by The We Play center's mission: "to offer a safe place to play while engaging in activities that promote brain development." 
+Melanie Richardson expressed a need for statistical evidence of We Play's importance.
+Thus far we have 
+Although we would like to use the center's existing data, it doesn't have consistent ids per unit of observation and is not tidy.
+Also, Christine Neely only sent us sporadic data from the past two years. We would not be able to correctly analyze
+limited data from uneven time periods.
 Instead we would like to validate the center's work by showing illustrating need for their services.
 
 Children were not required to attend kindergarten until June of 2021. 
 Studies show that children who cannot read at grade level by the third grade will lag behind for the rest of their education.^2
 We aim to analyze early childhood education availability and elementary school reading proficiency. 
 We hypothesize that access to early childhood education will greatly improve a child's literacy.
-
+We have found a dataset reporting reading test results, but it is in PDF form so we will need to either transfer it to a csv
+manually or parse the PDF.
+Additonally, we would like to look at center availability and need.
+Once we establish a quantifiable need for early childhood education we can analyze inhibiting factors
+by scraping data on all centers in Louisiana.
+"State of the young child..." applies to our hypothesis and could possible be of use if we have time to analyze multiple questions.
 
 
 ^1 This site's links are broken so we are awaiting response. Will call if they haven't responded by 10/27.
