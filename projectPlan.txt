@@ -1,23 +1,34 @@
 Possible datasets: 
 
-1. We Play Data <-- Analyze this??
+1. We Play Data 
 2. https://opennola.org/state-of-the-young-child-in-new-orleans-edi-neighborhood-profiles/ 
    "STATE OF THE YOUNG CHILD IN NEW ORLEANS: EDI NEIGHBORHOOD PROFILES"
     This Dataset measures five areas of early childhood development to classify Kindergarten readiness. These include "Physical health and wellbeing", "Social competence", "Emotional Maturity", "Language and cognitive skills", and "Communication skills and general knowledge".
-    **
-3. ?? webscrape for early childhood centers ??
+    ^1
+3. https://www.louisianabelieves.com/docs/default-source/test-results/fall-2020-dibels-reading-report.pdf?sfvrsn=28a96618_8
+   "Dibels Reading Report"
+4. https://www.louisianaschools.com/
+   Early childhood education centers in New Orleans, by age group
+5. 2018-2020 PK-5 enrollment data
 
 
 Goal: We are inspired by The We Play center's mission: "to offer a safe place to play while engaging in activities that promote brain development." 
 Melanie Richardson expressed a need for statistical evidence of We Play's importance. 
 Although we would like to use the center's existing data, it has ISSUES XYZ. 
-Instead we would like to validate the center's work by showing ????
+Instead we would like to validate the center's work by showing illustrating need for their services
+
+Children were not required to attend kindergarten until June of 2021. 
+Studies show that children who cannot read at grade level by the third grade will lag behind for the rest of their education.^2
+We aim to analyze early childhood education availability and elementary school reading proficiency. 
+We hypothesize that access to early childhood education will greatly improve a child's literacy.
+
+
+
+^1 This site's links are broken so we are awaiting response. Will call if they haven't responded by 10/27.
+^2 https://news.yahoo.com/kindergarten-required-louisiana-edwards-signs-230000296.html
 
 
 Collaboration Plan: Rena and Eddy will utilize this repository to simultaneously edit the project. 
 We plan on connecting over Zoom as needed and keeping constant communication over instant message. 
 When convinient, we will export notebooks to Google Colabs to support simultaneous editing. 
 (This is easily done using a Colabs Chrome extension).
-
-
-** This site's links are broken so we are awaiting response. Will call if they haven't responded by 10/27.
