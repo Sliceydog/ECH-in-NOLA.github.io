@@ -1,6 +1,7 @@
 # Rena Repenning
 
 ##### Tulane University B.S. Computer Science & Economics '22
+![Alt Text](rr.JPG =100x100)
 
 ### Current projects
 * [Senior Year Capstone Project](/VideoGameRecommender/)
