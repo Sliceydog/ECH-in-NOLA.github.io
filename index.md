@@ -2,7 +2,7 @@
 
 ##### Tulane University B.S. Computer Science & Economics '22
 
-![Alt text](rr.JPG)
+![Alt text](rr.JPG =100x100)
 
 ### Current projects
 * [Senior Year Capstone Project](/VideoGameRecommender/)
