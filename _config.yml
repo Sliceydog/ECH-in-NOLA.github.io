@@ -40,10 +40,9 @@ title-img: rr.JPG
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: "rrepenning@tulane.edu"
   github: renarepenning
-#  linkedin: daattali
+  linkedin: renarepenning
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
