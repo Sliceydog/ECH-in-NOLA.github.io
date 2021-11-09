@@ -1,6 +1,6 @@
 # Rena Repenning
 
-![Alt text](/rr.jpg)
+![Alt text](rr.jpg "My Photo")
 
 ##### Tulane University B.S. Computer Science & Economics '22
 
