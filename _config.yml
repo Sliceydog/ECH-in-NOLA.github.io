@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Rena Repenning
 
 # Your name to show in the footer
-author: Some Person
+author: Rena Repenning
 
 # --- List of links in the navigation bar --- #
 
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://www.renarepenning.com"
 
 # --- Logo --- #
 
@@ -41,28 +41,8 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
+  github: renarepenning
 #  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -79,22 +59,22 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "renarepenning.com"
 
-# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+# # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+# excerpt_length: 50
 
-# Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+# # Whether or not to show an excerpt for every blog post in the feed page
+# feed_show_excerpt: true
 
-# Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+# # Whether or not to show a list of tags below each post preview in the feed page
+# feed_show_tags: true
 
-# Add a search button to the navbar
-post_search: true
+# # Add a search button to the navbar
+# post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "rena,repenning,renarepenning"
 
 # --- Colours / background image --- #
 
