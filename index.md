@@ -4,16 +4,8 @@
 
 
 ### Current projects
-
-###### Senior Year Capstone Project
-> https://www.renarepenning.com/VideoGameRecommender/
-
-
-[Senior Year Capstone Project](https://www.renarepenning.com/VideoGameRecommender/)
-
-###### Data Science Final Project
-> https://www.renarepenning.com/weplaynoladata/
+* [Senior Year Capstone Project](https://www.renarepenning.com/VideoGameRecommender/)
+* [Data Science Final Tutorial](https://www.renarepenning.com/weplaynoladata/)
 
 
-#### LinkedIn Profile
-> https://www.linkedin.com/in/renarepenning/
+#### [LinkedIn Profile] (https://www.linkedin.com/in/renarepenning/)
