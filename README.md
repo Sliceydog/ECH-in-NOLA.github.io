@@ -1,4 +1,4 @@
-# renarepenning.github.io
+# Rena Repenning
 
 ## Pages:
 
