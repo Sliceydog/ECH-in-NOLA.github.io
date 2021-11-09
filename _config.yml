@@ -1,10 +1,5 @@
 theme: jekyll-theme-minimal
 
-# documentation links
-docs:
-  - title: Projects
-    children:
-      - title: "WePlay NOLA project"
-        url: /weplaynola/
-      - title: "Capstone Project"
-        url: /VideoGameRecommender/
+name: Rena Repenning
+url: renarepenning.com
+markdown: kramdown
