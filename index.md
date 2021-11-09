@@ -1,7 +1,5 @@
 # Rena Repenning
 
-![Alt text](rr.JPG "My Photo")
-
 ##### Tulane University B.S. Computer Science & Economics '22
 
 ### Current projects
