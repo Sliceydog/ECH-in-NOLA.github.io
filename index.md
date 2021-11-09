@@ -9,7 +9,7 @@
 * [Data Science Final Tutorial](/weplaynoladata/)
 
 ### Personal Links
-[LinkedIn Profile](https://www.linkedin.com/in/renarepenning/)
-[Github](https://github.com/renarepenning)
+* [LinkedIn Profile](https://www.linkedin.com/in/renarepenning/)
+* [Github](https://github.com/renarepenning)
 
 
