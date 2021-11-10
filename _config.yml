@@ -18,7 +18,10 @@ navbar-links:
   Projects:
     - Data Science: "https://www.renarepenning.com/weplaynoladata/"
     - Capstone: "https://www.renarepenning.com/VideoGameRecommender/"
-    - Checkout my Github: "https://www.github.com/renarepenning"
+    - Other Work: "https://github.com/renarepenning?tab=repositories"
+  Social Media:
+    - LinkedIn: "https://www.linkedin.com/in/renarepenning/"
+    - GitHub: "https://github.com/renarepenning/"
 
 # --- Logo --- #
 
@@ -48,13 +51,6 @@ social-network-links:
 # rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
-
-# Select which social network share links to show in posts
-# share-links-active:
-#   twitter: true
-#   facebook: true
-#   linkedin: true
-#   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
