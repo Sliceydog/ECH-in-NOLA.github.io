@@ -11,3 +11,10 @@ subtitle: Personal Website
 * [Video Game Recommender](https://www.renarepenning.com/VideoGameRecommender/)
 * [WePLAY NOLA data analysis](https://www.renarepenning.com/weplaynoladata/)
 
+
+
+
+<footer>
+  Email me at rrepenning@tulane.edu
+</footer>
+  
