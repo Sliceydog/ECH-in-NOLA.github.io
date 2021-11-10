@@ -4,7 +4,7 @@ title: Rena Repenning
 subtitle: Personal Website
 ---
 <p style="text-align:left;">
-  # Website in progress!
+  <h1>Website in progress!<h1>
 </p>
 
 
