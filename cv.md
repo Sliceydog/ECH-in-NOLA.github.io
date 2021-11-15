@@ -16,7 +16,6 @@ Aspiring full stack software engineer.
 ## Currently
 Tulane Bachelor's of Science candidate in Computer Science and Economics. Incoming Technology Analyst to Morgan Stanley, after expected graduation in 2022.
 
-
 ## Education
 `2018 - now`
 __Tulane University, New Orleans LA__
@@ -94,6 +93,7 @@ __Software Engineering Intern__, Broad Institute of MIT and Harvard
 `2018`
 __Tutor__, Trinity Comunity Center
 - Tutored K through 4th grade New Orleans children in math and reading
+-
 `2020-2021`
 __SSE Peer Mentor__, Tulane University School of Science and Engineering
 - Mentored three freshman computer science students; provided support with homework, course planning, and study skills. 
