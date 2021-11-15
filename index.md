@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Rena Repenning
+title: 
 subtitle: Personal Website
 ---
 
