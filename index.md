@@ -17,6 +17,7 @@ subtitle: Personal Website
 
 
 <footer>
-  Email me at rrepenning@tulane.edu
+  Email me at rrepenning@tulane.edu.
+  Website created by Rena Repenning.
 </footer>
   
