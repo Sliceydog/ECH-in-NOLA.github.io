@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 title: Rena Repenning
 ---
 # Rena Repenning
@@ -14,18 +14,16 @@ Aspiring full stack software engineer.
 
 
 ## Currently
-Tulane Bachelor's of Science candidate in Computer Science and Economics. Incoming Technology Analyst to Morgan Stanley in 2022.
-
+Tulane Bachelor's of Science candidate in Computer Science and Economics. Incoming Technology Analyst to Morgan Stanley, after expected graduation in 2022.
 
 
 ## Education
+`2018 - now`
+__Tulane University, New Orleans LA__
+- Computer Science GPA: 3.65
 
 `2014-2018`
 __Buckingham Browne & Nichols School, Cambridge, MA__
-
-`2018 - now`
-__Tulane University, New Orleans LA__
-
 
 ## Awards
 
