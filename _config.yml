@@ -15,6 +15,7 @@ author: Rena Repenning
 
 navbar-links:
   # About Me: "aboutme"
+  Home: "index"
   CV: "cv"
   Projects:
     - Data Science: "https://www.renarepenning.com/weplaynoladata/"
