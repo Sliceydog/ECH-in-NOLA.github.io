@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Rena Repenning
+title: Rena Repenning - Curriculum Vitae
 ---
-# Rena Repenning
+
 Aspiring full stack software engineer.
 💻 ⚜️ 🏃‍♀️ 🍎
 
@@ -93,7 +93,7 @@ __Software Engineering Intern__, Broad Institute of MIT and Harvard
 `2018`
 __Tutor__, Trinity Comunity Center
 - Tutored K through 4th grade New Orleans children in math and reading
--
+
 `2020-2021`
 __SSE Peer Mentor__, Tulane University School of Science and Engineering
 - Mentored three freshman computer science students; provided support with homework, course planning, and study skills. 
