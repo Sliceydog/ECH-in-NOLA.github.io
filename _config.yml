@@ -77,16 +77,16 @@ keywords: "rena,repenning,renarepenning"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#d9c9ff"
+navbar-col: "#e0ddf0"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#f3edfc"
+page-col: "#f7f5ff"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#ff745e"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#e0ddf0"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#fab67a"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
