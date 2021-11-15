@@ -14,7 +14,8 @@ author: Rena Repenning
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
+  CV: "cv"
   Projects:
     - Data Science: "https://www.renarepenning.com/weplaynoladata/"
     - Capstone: "https://www.renarepenning.com/VideoGameRecommender/"
@@ -23,7 +24,6 @@ navbar-links:
   Social Media:
     - LinkedIn: "https://www.linkedin.com/in/renarepenning/"
     - GitHub: "https://github.com/renarepenning/"
-  CV: "cv"
 
 # --- Logo --- #
 
@@ -77,10 +77,10 @@ keywords: "rena,repenning,renarepenning"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#d9c9ff"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#f3edfc"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
