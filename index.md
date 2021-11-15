@@ -14,10 +14,3 @@ subtitle: Personal Website
 * [WePLAY NOLA data analysis](https://www.renarepenning.com/weplaynoladata/)
 
 
-
-
-<footer>
-  Email me at rrepenning@tulane.edu.
-  Website created by Rena Repenning.
-</footer>
-  
