@@ -23,6 +23,8 @@ __Tulane University, New Orleans LA__
 
 `2014-2018`
 __Buckingham Browne & Nichols School, Cambridge, MA__
+- ACT Composite Score: 35
+- AP Computer Science score: 4
 
 ## Awards
 
