@@ -12,8 +12,5 @@ Additionally, I have experience in database management and creation, web develop
 
 
 
-### Check out my current projects:
-* [Video Game Recommender](https://www.renarepenning.com/VideoGameRecommender/)
-* [WePLAY NOLA data analysis](https://www.renarepenning.com/weplaynoladata/)
-
-
+### Check out my most recent project:
+[WePLAY NOLA Data Analysis](https://www.renarepenning.com/weplaynoladata/) - Final Tutorial for Intro to Data Science
