@@ -19,7 +19,8 @@ Tulane Bachelor's of Science candidate in Computer Science and Economics. Incomi
 ## Education
 `2018 - now`
 __Tulane University, New Orleans LA__
-- Computer Science GPA: 3.65
+- Cumulative GPA: 3.55/4.00
+- Computer Science GPA: 3.66/4.00
 - Dean's List: Multiple Semesters
 
 `2014-2018`
