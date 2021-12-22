@@ -44,9 +44,12 @@ Grace Hopper Celebration Grant Recipient, *Newcomb Institute*, Remote
 
 ## Employment
 
-`2022`
+`Fall 2022`
 __Incoming Technology Analyst__, Morgan Stanley
 - Application development
+
+`Spring 2022`
+__Software Intern__, Junum
 
 `2021 - now`
 __IT/CS consultant__, Tulane University
