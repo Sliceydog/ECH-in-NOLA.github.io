@@ -7,7 +7,7 @@ Aspiring full stack software engineer.
 💻 ⚜️ 🏃‍♀️ 🍎
 
 <div id="webaddress">
-<a href="rrepenning@tulane.edu">rrepenning@tulane.edu</a>
+<a href="renarepenning@gmail.com">renarepenning@gmail.com</a>
 | <a href="http://renarepenning.com">My Personal Web Page</a>
 | <a href="https://www.linkedin.com/in/renarepenning/">LinkedIn</a>
 </div>
