@@ -27,6 +27,7 @@ __Tulane University, New Orleans LA__
 __Buckingham Browne & Nichols School, Cambridge, MA__
 - ACT Composite Score: 35
 - AP Computer Science score: 4
+- SAT Subject Test Biology: 730 (taken 2015)
 
 ## Awards
 
