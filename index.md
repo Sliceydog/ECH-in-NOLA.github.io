@@ -3,7 +3,7 @@ layout: home
 title: Rena Repenning
 subtitle: Personal and Academic Projects
 ---
-![](rr.JPG =200x200)
+<img src="rr.JPG" width="200" height="200" />
 
 Hello! I am an aspiring full-stack software engineer with experience in back-end development, cloud computing, project management, and agile scrum methodologies. After graduating from Tulane University in May of 2022 I will move to New York city to work in Application Development at Morgan Stanley.
 
