@@ -21,7 +21,7 @@ navbar-links:
   CV: "cv"
   Projects:
     - Data Science: "https://www.renarepenning.com/weplaynoladata/"
-    - Capstone: "https://www.renarepenning.com/VideoGameRecommender/"
+    - Capstone: "https://game-recs.herokuapp.com/"
     - Computational Geometry Research: "https://github.com/compgeomTU"
     - Other Work: "https://github.com/renarepenning?tab=repositories"
   Social Media:
