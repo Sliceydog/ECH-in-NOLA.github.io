@@ -14,4 +14,5 @@ Additionally, I have experience in database management and creation, web develop
 
 
 ### Check out my most recent project:
+[Capstone Project](https://game-recs.herokuapp.com/) - *In progress* Senior Year Computer Science Capstone Project
 [WePLAY NOLA Data Analysis](https://www.renarepenning.com/weplaynoladata/) - Final Tutorial for Intro to Data Science
